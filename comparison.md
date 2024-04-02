@@ -1,6 +1,7 @@
 ---
 title: Comparison
 layout: page
+has_children: true
 ---
 
 How Opvizor compares to others.
