@@ -18,4 +18,4 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 Useful links
 
-[Our demo environmnet]: https://demoml.codenotary.io/
+[Our demo environmnet](https://demoml.codenotary.io/)
