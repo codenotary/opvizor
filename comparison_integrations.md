@@ -4,7 +4,7 @@ layout: page
 parent: Comparison
 ---
 
-# How Opvizor compares to others in terms of integrations.
+# Supported technologies and integrations.
 Opvizor collects, visualizes and analyzes performance and health data for the following systems:
 
 <!-- <img src="img/vmware.svg" width="100"> <img src="img/nutanix.png" width="100"> <img src="img/proxmox.svg" width="100"> <img src="img/hyperv.png" width="100"> <img src="img/aws.svg" width="100"> <img src="img/azure.webp" width="100"> -->

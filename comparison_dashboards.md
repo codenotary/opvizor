@@ -4,7 +4,7 @@ layout: page
 parent: Comparison
 ---
 
-# How Opvizor compares to others in terms of dashboards.
+# Visualizations and dashboards.
 You would typically get a dashboard on any enterprise grade monitoring solution however a simple dashboard usually does not tell the whole story.
 Even more it can get frustrated if you need to write a complex query to get the data out. This is not the case with Opvizor.
 

@@ -4,7 +4,7 @@ layout: page
 parent: Comparison
 ---
 
-# How Opvizor compares to others in terms of pricing.
+# Pricing
 
 Opvizor collects, visualizes and analyzes performance and health data for the following systems:
 
@@ -14,3 +14,4 @@ Opvizor collects, visualizes and analyzes performance and health data for the fo
 Useful links
 
 - [Our demo environmnet](https://demoml.codenotary.io/)
+- [Official webpage](https://opvizor.com)
