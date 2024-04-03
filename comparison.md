@@ -3,6 +3,7 @@ title: Comparison
 layout: page
 nav_order: 3
 has_children: true
+nav_fold: false
 ---
 
 # How Opvizor compares to others
