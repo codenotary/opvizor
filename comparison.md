@@ -6,7 +6,9 @@ has_children: true
 ---
 
 # How Opvizor compares to others
-When setting up monitoring solutions, you have two main configuration approaches: a) Centralized or b) Edge-based.
+When setting up monitoring solutions, you have two main configuration approaches:
+- a) Centralized
+- b) Edge-based
 
 Centralized: Manage data collection and agent settings directly from the solution's interface. Ideal for stable environments where central control is easy.
 Edge-based: Edit configuration files on individual servers. Best for dynamic environments using observability-as-code, enabling version control and auditing within git repositories.

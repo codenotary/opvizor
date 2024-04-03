@@ -40,6 +40,9 @@ Use built-in integrations for Linux, Windows, MS SQL, Oracle, NetApp, Cisco, Tan
 Rely on our top-tier customer support for any assistance you need.
 
 
+### Intuitive and up to date dashboards:
+Opvizor ships intuitive dashboards grouped in logical areas like starters, performance, capacity and planning
+
 ![vSphere Overview](img/opvizor_vsphere_overview.png)
 
 
