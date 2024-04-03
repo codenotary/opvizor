@@ -123,19 +123,22 @@ More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 <summary>Do I need to install any agents to collect VMware vSphere data?</summary>
 
 Many integrations work without installing an agent:
-- VMware vSphere
-- NetApp
-- Microsoft SQL
-- Oracle
-- PostgreSQL
-- Dell PowerMax
-- Cisco UCS
-- Cisco Switches
-- Brocade Switches
-- Agents are required for Operating System data and some applications.
+<ul>
+    <li>VMware vSphere</li>
+    <li>NetApp</li>
+    <li>Microsoft SQL</li>
+    <li>Oracle</li>
+    <li>PostgreSQL</li>
+    <li>Dell PowerMax</li>
+    <li>Cisco UCS</li>
+    <li>Cisco Switches</li>
+    <li>Brocade Switches</li>
+</ul>
+
+<p>Agents are required for Operating System data and some applications.</p>
 
 
-More you can find here on [Opvizor's website](https://opvizor.com/product)
+<p>More you can find here on [Opvizor's website](https://opvizor.com/product)</p>
 </details>
 
 <details>
