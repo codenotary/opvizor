@@ -7,11 +7,11 @@ parent: Comparison
 # How Opvizor compares to others in terms of integrations.
 Opvizor collects, visualizes and analyzes performance and health data for the following systems:
 
-![vmware](img/vmware.svg) ![nutanix](img/nutanix.png) ![proxmox](img/proxmox.svg) ![hyperv](img/hyperv.png) ![aws](img/aws.svg) ![azure](img/azure.webp)
-![libvirt](img/libvirt.png) ![kubernetes](img/kubernetes.svg) ![docker](img/docker.svg) ![windows](img/windows.svg) ![debian](img/debian.svg) ![rhel](img/rhel.webp)
+![vmware](img/vmware.svg | width=100) ![nutanix](img/nutanix.png | width=100) ![proxmox](img/proxmox.svg | width=100) ![hyperv](img/hyperv.png | width=100) ![aws](img/aws.svg | width=100) ![azure](img/azure.webp | width=100)
+![libvirt](img/libvirt.png | width=100) ![kubernetes](img/kubernetes.svg | width=100) ![docker](img/docker.svg | width=100) ![windows](img/windows.svg | width=100) ![debian](img/debian.svg | width=100) ![rhel](img/rhel.webp | width=100)
 ----
 
 Useful links
 
-- [Our demo environmnet](https://demoml.codenotary.io/)
-- [Official webpage](https://opvizor.com)
+- [Our demo environmnet](https://demoml.codenotary.io/ | width=100)
+- [Official webpage](https://opvizor.com | width=100)
