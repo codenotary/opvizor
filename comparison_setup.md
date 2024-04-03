@@ -6,6 +6,11 @@ parent: Comparison
 
 # How Opvizor compares to others.
 
+When setting up monitoring solutions, you have two main configuration approaches: a) Centralized or b) Edge-based.
+
+Centralized: Manage data collection and agent settings directly from the solution's interface. Ideal for stable environments where central control is easy.
+Edge-based: Edit configuration files on individual servers. Best for dynamic environments using observability-as-code, enabling version control and auditing within git repositories.
+
 Most of the solutions usually require an agent to operate. On one side a custom agent brings wider functionaly and therefore more rich results where on the other side it can be quite complex to setup at some point.
 
 In Opvizor many integrations work without the need of agent installation. Here are listed some of them:
