@@ -4,37 +4,17 @@ layout: page
 parent: Comparison
 ---
 
-# How Opvizor compares to others.
+# Ease of setup
 
-When setting up monitoring solutions, you have two main configuration approaches: a) Centralized or b) Edge-based.
+Ease of setup cannot be underestimated when speaking about enterprise grade monitoring software.
 
-Centralized: Manage data collection and agent settings directly from the solution's interface. Ideal for stable environments where central control is easy.
-Edge-based: Edit configuration files on individual servers. Best for dynamic environments using observability-as-code, enabling version control and auditing within git repositories.
+We always aim to put ourselves in our customer shoes therefore we understand that a significant amount of products that are out there are dropped after you struggle with the setup for more than 30 minutes.
 
-Most of the solutions usually require an agent to operate. On one side a custom agent brings wider functionaly and therefore more rich results where on the other side it can be quite complex to setup at some point.
+Opvizor's rapid deployment allows to finish with the setup within 5 minutes and see your essential data on dashboards right after.
 
-In Opvizor many integrations work without the need of agent installation. Here are listed some of them:
-- VMware vSphere
-- NetApp
-- Microsoft SQL
-- Oracle
-- PostgreSQL
-- Dell PowerMax
-- Cisco UCS
-- Cisco Switches
-- Brocade Switches
-
-
-See how Opvizor compares to other products on specific areas.
-
-|                       | Opvizor                   | Dynatrace             | Datadog               | Instana               | Netdata                   |
-|:----------------------|:--------------------------|:----------------------|:----------------------|:----------------------|:--------------------------|
-| Agent                 | flexible agent/-less      | OneAgent / ActiveGate | Datadog agent         | Instana agent         | Netdata agent             |
-| Data Collector Config | centrally / at the edge   | at the edge           | at the edge           | at the edge           | centrally / at the edge   |         
-| Alerting              | centrally                 | at the edge           | at the edge           | at the edge           | centrally / at the edge   |  
-| Dashboards            | centrally / at the edge   | centrally             | centrally             | centrally             | centrally / at the edge   |
-| AIR Gapped Setup      | fully supported           | limited functionality | limited functionality | limited functionality | fully supported           |
+We ship OVA template that can be easily imported in your vSphere environment. No need for any complex configurations up on the way.
 
 Useful links
 
 - [Our demo environmnet](https://demoml.codenotary.io/)
+- [Knowledge space for appliance setup](https://codenotary.freshdesk.com/support/solutions/articles/202000019261-installing-the-virtual-appliance)
