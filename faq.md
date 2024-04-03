@@ -55,7 +55,7 @@ More you can find here on [Opvizor's website](https://opvizor.com/pricing)
 
 Opvizor supports variety of metrics across all important layers of the performance and capacity stacks.
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 <details>
@@ -63,7 +63,7 @@ More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 
 While Opvizor's main focus is to cover VMware environments it also supports other virtualization platforms like Proxmox and Oracle libvirt as well as AWS and other cloud services. Physical servers and other virtual machines are also covered.
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 <details>
@@ -71,7 +71,7 @@ More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 
 Dashboards can be easily adjusted up to each and every specific panel. New panels for additional metrics can be added within a minutes. We are always happy to ship additional custom dashboards for your needs.
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 <details>
@@ -79,7 +79,7 @@ More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 
 Opvizor includes a set of capacity planning dashboards allowing you to plan your infrastructure proactively up a head.
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 <details>
@@ -87,7 +87,7 @@ More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 
 Many panels are equipped with a pre-configured alerts and thresholds so you get notified immediately once the thesholds are reached. Additional alerts can be configured easily as well.
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 <details>
@@ -95,7 +95,7 @@ More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 
 Opvizor supports the Syslog protocol and you can simply configure the ESXi hosts, the vCSA appliance and many other systems to send data to the virtual appliance.
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 
@@ -114,9 +114,9 @@ More you can find here on [Opvizor's website](https://opvizor.com/product)
 <details>
 <summary>Do you have Opvizor cloud offering?</summary>
 
-Yes, we offer Opvizor in cloud so you wouldn't have to worry about data storange, retention, etc.
+<p>Yes, we offer Opvizor in cloud so you wouldn't have to worry about data storange, retention, etc.</p>
 
-More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+<p>More you can find here on <a href="https://cloud.opvizor.com/#/">Opvizor's website</a></p>
 </details>
 
 <details>
