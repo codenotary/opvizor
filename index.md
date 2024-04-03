@@ -4,19 +4,44 @@ layout: home
 nav_order: 1
 ---
 
-Welcome to Opvizor home. Here we aim to give a high level comparison on features that people are typically looking for in virtualized infrastructure performance monitoring.
+# Welcome to Opvizor's home!
 
+Here we aim to give a high level comparison on features that people are typically looking for in virtualized infrastructure performance monitoring.
 
+Before you dig into the other sections here's a short summary of key essentials why customers choose to go with Opvizor
 
-More specifically, the created site:
+## Performance monitoring, forecasting, reporting, event tracking 
+### What our customers love about us
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+The built-in expertise detects performance issues pro-actively. Opvizor installs and optimizes your vSphere environment in minutes.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### Rapid Deployment:
+Experience easy setup and use within just 5 minutes, ensuring a swift start.
+
+### Unparalleled Performance Insights:
+Gain access to unique insights that reveal the true performance of your systems.
+
+### Resource Waste Identification:
+Quickly pinpoint and address wasted resources in your infrastructure.
+
+### Effective Resource Forecasting:
+Simplify resource planning with straightforward and efficient forecasting tools.
+
+### Bottleneck Detection:
+Easily locate and resolve performance bottlenecks in ESXi hosts and VMs.
+
+### Sensible Predefined Alerts:
+Benefit from intelligently crafted alerts that are meaningful and actionable.
+
+### Integrations:
+Use built-in integrations for Linux, Windows, MS SQL, Oracle, NetApp, Cisco, Tanzu, AWS, Azure, Google Cloud and many more. 
+
+### World-class Customer Support:
+Rely on our top-tier customer support for any assistance you need.
+
 
 ----
 
 Useful links
 
-[Our demo environmnet](https://demoml.codenotary.io/)
+- [Our demo environmnet](https://demoml.codenotary.io/)
