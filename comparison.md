@@ -40,6 +40,8 @@ See how Opvizor compares to other products on specific areas.
 
 Further section will reveal case by case comparison for Opvizor and other products in additional details
 
+----
+
 Useful links
 
 - [Our demo environmnet](https://demoml.codenotary.io/)

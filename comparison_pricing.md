@@ -1,10 +1,11 @@
 ---
-title: Integrations
+title: Pricing
 layout: page
 parent: Comparison
 ---
 
-# How Opvizor compares to others in terms of integrations.
+# How Opvizor compares to others in terms of pricing.
+
 Opvizor collects, visualizes and analyzes performance and health data for the following systems:
 
 

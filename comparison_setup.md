@@ -14,6 +14,8 @@ Opvizor's rapid deployment allows to finish with the setup within 5 minutes and 
 
 We ship OVA template that can be easily imported in your vSphere environment. No need for any complex configurations up on the way.
 
+----
+
 Useful links
 
 - [Our demo environmnet](https://demoml.codenotary.io/)
