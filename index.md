@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Welcome to Opvizor home. Here we aim to give a high level comparison on features that people are typically looking for in virtualized infrastructure performance monitoring.
