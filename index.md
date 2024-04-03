@@ -40,6 +40,10 @@ Use built-in integrations for Linux, Windows, MS SQL, Oracle, NetApp, Cisco, Tan
 Rely on our top-tier customer support for any assistance you need.
 
 
+![vSphere Overview](img/opvizor_vsphere_overview.png)
+
+
+
 ----
 
 Useful links
