@@ -13,4 +13,4 @@ Opvizor collects, visualizes and analyzes performance and health data for the fo
 
 Useful links
 
-[Our demo environmnet]: https://demoml.codenotary.io/
+- [Our demo environmnet](https://demoml.codenotary.io/)

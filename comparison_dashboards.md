@@ -33,4 +33,5 @@ Here is one of our dashboards where AI assistant helps to navigate through Opviz
 
 Useful links
 
-[Our demo environmnet]: https://demoml.codenotary.io/
+- [Our demo environmnet](https://demoml.codenotary.io/)
+- [Official webpage](https://opvizor.com)
