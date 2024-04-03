@@ -11,7 +11,7 @@ Even more it can get frustrated if you need to write a complex query to get the 
 Opvizor ships intuitive dashboards grouped in logical areas like starters, performance, capacity and planning.
 With a set of curated dashboards per each section we ship a large collection of visualizations at all layers. In total **50+ dashboards** are available where each one of them contains more than 10 panels. 
 
-See how Opvizor compares to other products on specific areas.
+## See how Opvizor compares to other products on specific areas
 
 |                                                   | Opvizor                   | Dynatrace             | Datadog               | Instana               | Netdata                   |
 |:--------------------------------------------------|:--------------------------|:----------------------|:----------------------|:----------------------|:--------------------------|
