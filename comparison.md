@@ -1,7 +1,7 @@
 ---
 title: Comparison
 layout: page
-nav_order: 3
+nav_order: 2
 has_children: true
 nav_fold: false
 ---

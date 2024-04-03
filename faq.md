@@ -1,7 +1,7 @@
 ---
 title: FAQ
 layout: page
-nav_order: 4
+nav_order: 3
 ---
 
 Here you will find most common questions addressed that our customers had asked.
