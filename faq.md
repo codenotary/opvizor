@@ -13,7 +13,7 @@ Here you will find most common questions addressed that our customers had asked.
 
 Opvizor offers multiple subscriptions based on what exactly you need.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/pricing)
+More you can find here on [Opvizor's website](https://opvizor.com/pricing)
 </details>
 
 <details>
@@ -21,7 +21,7 @@ Opvizor offers multiple subscriptions based on what exactly you need.
 
 Opvizor comes with a 30-day trial that includes all features. Please contact our sales team if you need to expand the trial.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/pricing)
+More you can find here on [Opvizor's website](https://opvizor.com/pricing)
 </details>
 
 <details>
@@ -29,7 +29,7 @@ Opvizor comes with a 30-day trial that includes all features. Please contact our
 
 Yes, Opvizor is subscription-based licensed for the base licenses and the extensions.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/pricing)
+More you can find here on [Opvizor's website](https://opvizor.com/pricing)
 </details>
 
 <details>
@@ -37,7 +37,7 @@ Yes, Opvizor is subscription-based licensed for the base licenses and the extens
 
 Yes, licenses can be upgraded at any time and the license costs will be charged pro-rata.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/pricing)
+More you can find here on [Opvizor's website](https://opvizor.com/pricing)
 </details>
 
 <details>
@@ -45,7 +45,7 @@ Yes, licenses can be upgraded at any time and the license costs will be charged 
 
 Discounts are available on both - larger deployments as well as for long-term contracts.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/pricing)
+More you can find here on [Opvizor's website](https://opvizor.com/pricing)
 </details>
 
 ### Functionality and Features
@@ -55,7 +55,7 @@ Discounts are available on both - larger deployments as well as for long-term co
 
 Opvizor supports variety of metrics across all important layers of the performance and capacity stacks.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 <details>
@@ -63,7 +63,7 @@ Opvizor supports variety of metrics across all important layers of the performan
 
 While Opvizor's main focus is to cover VMware environments it also supports other virtualization platforms like Proxmox and Oracle libvirt as well as AWS and other cloud services. Physical servers and other virtual machines are also covered.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 <details>
@@ -71,7 +71,7 @@ While Opvizor's main focus is to cover VMware environments it also supports othe
 
 Dashboards can be easily adjusted up to each and every specific panel. New panels for additional metrics can be added within a minutes. We are always happy to ship additional custom dashboards for your needs.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 <details>
@@ -79,7 +79,7 @@ Dashboards can be easily adjusted up to each and every specific panel. New panel
 
 Opvizor includes a set of capacity planning dashboards allowing you to plan your infrastructure proactively up a head.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 <details>
@@ -87,7 +87,7 @@ Opvizor includes a set of capacity planning dashboards allowing you to plan your
 
 Many panels are equipped with a pre-configured alerts and thresholds so you get notified immediately once the thesholds are reached. Additional alerts can be configured easily as well.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 <details>
@@ -95,7 +95,7 @@ Many panels are equipped with a pre-configured alerts and thresholds so you get 
 
 Opvizor supports the Syslog protocol and you can simply configure the ESXi hosts, the vCSA appliance and many other systems to send data to the virtual appliance.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 
@@ -108,7 +108,7 @@ Yes, Opvizor runs without any internet connectivity.
 
 Opvizor is available as a virtual appliance that you can import into your VMware vSphere environment. Patches can be downloaded from our customer portal and installed without any internet access. 
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 <details>
@@ -116,26 +116,26 @@ Opvizor is available as a virtual appliance that you can import into your VMware
 
 Yes, we offer Opvizor in cloud so you wouldn't have to worry about data storange, retention, etc.
 
-#### More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
+More you can find here on [Opvizor's website](https://cloud.opvizor.com/#/)
 </details>
 
 <details>
 <summary>Do I need to install any agents to collect VMware vSphere data?</summary>
 
 Many integrations work without installing an agent:
+- VMware vSphere
+- NetApp
+- Microsoft SQL
+- Oracle
+- PostgreSQL
+- Dell PowerMax
+- Cisco UCS
+- Cisco Switches
+- Brocade Switches
+- Agents are required for Operating System data and some applications.
 
-VMware vSphere
-NetApp
-Microsoft SQL
-Oracle
-PostgreSQL
-Dell PowerMax
-Cisco UCS
-Cisco Switches
-Brocade Switches
-Agents are required for Operating System data and some applications.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 <details>
@@ -143,7 +143,7 @@ Agents are required for Operating System data and some applications.
 
 Opvizor has been developed with scalability and efficiency in mind. Most deployments consist of a single virtual appliance that can consume all metrics, logs and configuration data. When exceeding 100 ESXi hosts and 1500 VMs, we recommend a split into 2 virtual appliances.  In any case, you see all data within the dashboards.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 ### Technical Support
@@ -153,7 +153,7 @@ Opvizor has been developed with scalability and efficiency in mind. Most deploym
 
 Normally we work in CET time zone however we are flexible and can adjust based on your convenience.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 <details>
@@ -161,7 +161,7 @@ Normally we work in CET time zone however we are flexible and can adjust based o
 
 We threat all our customers equally and with priority. We are always happy to schedule a web/video session with a customer to better understand their issue that can eventually become an improvement in our product.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 <details>
@@ -169,7 +169,7 @@ We threat all our customers equally and with priority. We are always happy to sc
 
 Currently you can head to https://codenotary.freshdesk.com/support/home for tutorials covering different Opvizor areas.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 ### Opvizor's AI Assistant
@@ -179,7 +179,7 @@ Currently you can head to https://codenotary.freshdesk.com/support/home for tuto
 
 Opvizor's AI assistant is always context aware. You can chat with any specific panel and the assistant will communicate back the answer taking into account the data available specifically on that panel.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 <details>
@@ -187,7 +187,7 @@ Opvizor's AI assistant is always context aware. You can chat with any specific p
 
 Definitely the assistant understands normal human being language, even if the question is with a more complex structure.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 <details>
@@ -195,7 +195,7 @@ Definitely the assistant understands normal human being language, even if the qu
 
 While we currently officially support English we encourage you to try any language. It should still handle it however the quality may be degraded. But please do let us know how it goes so we can improve.
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 ### Alerting Integrations
@@ -205,9 +205,9 @@ While we currently officially support English we encourage you to try any langua
 
 We use Grafana as the main interface for the user experience in Opvizor. The built-in alerting features have plenty of alerting integrations available starting from email up to instant messengers like Slack and Discord for example. 
 
-#### More you can find here on [Opvizor's website](https://opvizor.com/product)
+More you can find here on [Opvizor's website](https://opvizor.com/product)
 </details>
 
 Useful links
 
-Our demo environmnet: https://demoml.codenotary.io/
+- [Our demo environmnet](https://demoml.codenotary.io/)
