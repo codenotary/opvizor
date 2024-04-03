@@ -106,7 +106,7 @@ Opvizor includes a set of capacity planning dashboards allowing you to plan your
 
 <p>Yes, Opvizor runs without any internet connectivity.</p>
 
-<p>Opvizor is available as a virtual appliance that you can import into your VMware vSphere environment. Patches can be downloaded from our customer portal and installed without any internet access.<p>
+<p>Opvizor is available as a virtual appliance that you can import into your VMware vSphere environment. Patches can be downloaded from our customer portal and installed without any internet access.</p>
 
 <p>More you can find here on <a href="https://opvizor.com/product">Opvizor's website</a></p>
 </details>
