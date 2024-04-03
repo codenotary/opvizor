@@ -5,6 +5,8 @@ nav_order: 2
 ---
 
 # Installation Complexity
+Usually monitoring solitons require to go though a setup wizard which can be quite long and even complex. Mistakes can happend and you may need to re-iterate once again before you get to the right configuration. This is never the case with Opvizor.
+
 Opvizor can be imported as a VM template within minutes.
 
 Here are a few straight forward steps to get the Opvizor installed:
